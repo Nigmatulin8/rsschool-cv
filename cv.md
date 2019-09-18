@@ -4,18 +4,18 @@
     
 **3.** My goal is to become a programmer (Frontend JS developer). The quality of education and the possibility of self-realization are important to me. I am a student of RANEPA, 4 courses. I had an internship at EPAM Systems as a frontend developer; the internship was 2 weeks. I spend a lot of time self-learning and learning new technologies in the world of front-end and programming in general.   
    
-**4.**    
+**4.** Skills (e.g. programming languages, frameworks, methodologies, version control, tools etc.)   
 >**1.** Learning Technologies: JavaScript (es5, es6), html5, css3, vue.js, smartgrid, windows user, git, webpack, gulp, sccs;       
 >**2.** IDE: VSCode, SublimeText, Web Storm.       
    
-**5.**    
+**5.** Code examples (LATEST)    
 > **1.** EPAM Practice (Saratov) - https://github.com/Nigmatulin8/WEB_2019_EpamPractice-2      
 >**2.** Arcanoid clone (JS/) - https://github.com/Nigmatulin8/Arkanoid-clone-JS      
 >**3.** Snake clone (JS) - https://github.com/Nigmatulin8/js-snake.clone      
    
 **6.** Summer internship at EPAM Systems (frontend) (https://github.com/Nigmatulin8/WEB_2019_EpamPractice-2) 
    
-**7.**    
+**7.** Education (including courses, seminars, lectures, online learning)    
 >**1.** Secondary education - a technician for setting up and repairing PCs and computer equipment      
 >**2.** Bachelor: RANEPA, Department of Economics and Management, direction Management      
 >**3.** Additional educational program - Fundamentals of doing business and creating small and medium enterprises     
