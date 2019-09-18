@@ -1,4 +1,4 @@
-**1.** Rustam, Nigmatulin \n
+**1.** Rustam, Nigmatulin;
 **2.** https://vk.com/nigmatulin8 or **Telegram:** @ProgLin8
 **3.** My goal is to become a programmer (Frontend JS developer). The quality of education and the possibility of self-realization are important to me. I am a student of RANEPA, 4 courses. I had an internship at EPAM Systems as a frontend developer; the internship was 2 weeks. I spend a lot of time self-learning and learning new technologies in the world of front-end and programming in general.
 **4.** 1. Learning Technologies: JavaScript (es5, es6), html5, css3, vue.js, smartgrid, windows user, git; 
