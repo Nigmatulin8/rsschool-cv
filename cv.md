@@ -9,15 +9,15 @@
 >**2.** IDE: VSCode, SublimeText, Web Storm.       
    
 **5.**    
-         **1.** EPAM Practice (Saratov) - https://github.com/Nigmatulin8/WEB_2019_EpamPractice-2      
-         **2.** Arcanoid clone (JS/) - https://github.com/Nigmatulin8/Arkanoid-clone-JS      
-         **3.** Snake clone (JS) - https://github.com/Nigmatulin8/js-snake.clone      
+> **1.** EPAM Practice (Saratov) - https://github.com/Nigmatulin8/WEB_2019_EpamPractice-2      
+>**2.** Arcanoid clone (JS/) - https://github.com/Nigmatulin8/Arkanoid-clone-JS      
+>**3.** Snake clone (JS) - https://github.com/Nigmatulin8/js-snake.clone      
    
 **6.** Summer internship at EPAM Systems (frontend) (https://github.com/Nigmatulin8/WEB_2019_EpamPractice-2) 
    
 **7.**    
-         **1.** Secondary education - a technician for setting up and repairing PCs and computer equipment      
-         **2.** Bachelor: RANEPA, Department of Economics and Management, direction Management      
-         **3.** Additional educational program - Fundamentals of doing business and creating small and medium enterprises     
+>**1.** Secondary education - a technician for setting up and repairing PCs and computer equipment      
+>**2.** Bachelor: RANEPA, Department of Economics and Management, direction Management      
+>**3.** Additional educational program - Fundamentals of doing business and creating small and medium enterprises     
           
 **8.** Studying English at the institute and independent work, participating in a conference with publication (2018)    
